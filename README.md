@@ -15,6 +15,6 @@ Dropdown 4:
 - If New York -> Brooklyn, Manhattan
 
 Output:
-Japanese, Brookline -> Super Fusion, Fugakyu
-American, Newton -> Salt, Pepper
+- Japanese, Brookline -> Super Fusion, Fugakyu
+- American, Newton -> Salt, Pepper
 etc
